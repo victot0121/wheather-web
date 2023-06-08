@@ -21,7 +21,7 @@ This is a weather site that allows users to input their location and displays th
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: git clone https://github.com/your-username/weather-site.git
+1. Clone the repository: git clone (https://github.com/victot0121/wheather-web)
 2. Open the project folder in your preferred code editor.
 3. Sign up for an API key at the WeatherAPI website if you haven't already.
 4. Replace the placeholder API key in the JavaScript file (script.js) with your own API key.
